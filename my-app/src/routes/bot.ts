@@ -1,6 +1,6 @@
 import TelegramBot from "node-telegram-bot-api";
 
-const BOT_TOKEN = '7606495048:AAFp3L265Du6UNOpKx9tAbGDI5bwI8kkIKQ'
+const BOT_TOKEN = '8047607057:AAEO1YAN1nBott985qtZnV32TjnE63QiMLM'
 export const bot = new TelegramBot(`${BOT_TOKEN}`);
 console.log("bot", BOT_TOKEN);
 
